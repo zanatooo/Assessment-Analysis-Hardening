@@ -6,21 +6,21 @@ Then, I interpreted my log data to suggest mitigation measures for each exploit 
 
 Objectives:
 Apply knowledge of the following skills and tools:
-Penetration testing with Kali Linux.
-Log and incident analysis with Kibana.
-System hardening and configuration.
-Reporting, documentation, and communication.
+Penetration testing with Kali Linux;
+Log and incident analysis with Kibana;
+System hardening and configuration;
+Reporting, documentation, and communication;
 
 Lab Environment: 
 In this project, I used the Web Vulns lab environment located in Windows Azure Lab Services. RDP into the Windows RDP host machine using my credentials:
 
 Security+ Domains
 This project covered portions of the following domains on the Security+ exam:
-Types of attacks
-Indicators of compromise
-Penetration testing concepts
-Vulnerability scanning concepts
-Impact of vulnerabilities
+Types of attacks;
+Indicators of compromise;
+Penetration testing concepts;
+Vulnerability scanning concepts;
+Impact of vulnerabilities;
 Security assessment tools
 
  
