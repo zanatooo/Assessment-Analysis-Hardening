@@ -21,7 +21,8 @@ System hardening and configuration.
 Reporting, documentation, and communication.
 
 
-Lab Environment
+Lab Environment: 
+In this project, I used the Web Vulns lab environment located in Windows Azure Lab Services. RDP into the Windows RDP host machine using my credentials:
 
 
 Security+ Domains
